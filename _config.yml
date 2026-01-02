@@ -1,0 +1,8 @@
+title: Niel's Weekly
+description: My Journey in Math and Programming
+author: Niel
+theme: minima
+
+# Navigation
+header_pages:
+  - about.md
