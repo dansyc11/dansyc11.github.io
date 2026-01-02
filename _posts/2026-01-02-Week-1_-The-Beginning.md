@@ -13,7 +13,8 @@ categories: weekly
 Hello everyone! So this is the template of post I will be using... I will put whatever I want to yap about here!
 I am currently working on HTPI by Velleman.. I've done all the chapters up till 2.1
 
-   <img src="/assets/images/week-1.jpg" alt="Picture of the Week" width="400">*Heres the book! I just bought it hehe*
+   <img src="/assets/images/week-1.jpg" alt="Picture of the Week" width="400">
+   *Heres the book! I just bought it hehe*
 
 ## What I Learnt This Week
 
